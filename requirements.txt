@@ -2,3 +2,8 @@ gradio
 huggingface_hub
 torch
 transformers
+matplotlib
+accelerate
+pandas
+seaborn
+plotly
